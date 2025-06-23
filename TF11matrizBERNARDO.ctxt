@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TF11matrizBERNARDO
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=matriz\ pontoInicial\ pontoFinal\ simbolo
+comment2.target=void\ conectarPontos(char[][],\ int[],\ int[],\ char)
+numComments=3
